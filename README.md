@@ -1,3 +1,3 @@
 # ciberseguridad-control-versiones
 Laboratorio de control de versiones seguro
-Pruebas 2
+Línea de prueba.
